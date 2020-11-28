@@ -1,1 +1,2 @@
-# Class-20-detect-algo
+# p5.play-boilerplate
+Boiler plate for p5.play
